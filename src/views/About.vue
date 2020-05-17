@@ -6,7 +6,7 @@
       <v-row
         class="title-about mb-5">
         <v-col class="text-center" cols="12">
-          <h1 class="display-4"> Some Information Page </h1>
+          <h1 class="display-4"> About Page </h1>
         </v-col>
       </v-row>
       <v-row
