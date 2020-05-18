@@ -9,8 +9,9 @@ This repository has been created with Vue.js, Vuex, Vue Router and Vuetify.
 ```
 npm install
 ```
-### Environment Variable
+### Environment Variables
 There has been defined an environment variable called *VUE_APP_BASE_URL* into *.env* file in order to define API URL.
+
 By default It is pointing to [API on HEROKU](https://ocs-express-api.herokuapp.com), please change It in case You would like to define It by yourself.
 ### Compiles and hot-reloads for development
 ```
