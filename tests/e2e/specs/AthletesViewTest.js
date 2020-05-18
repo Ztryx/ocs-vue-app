@@ -1,11 +1,4 @@
-describe('Index is working', () => {
-  it('Visits the app root', () => {
-    cy.visit('/');
-    cy.contains('h1', 'Olympic Athletes');
-  });
-});
-
-describe('Athletes View', () => {
+describe('Athletes View Test', () => {
   it('Retrieves elements from API', () => {
     cy.visit('/athletes');
     cy.contains('h1', 'Olympic Athletes');
