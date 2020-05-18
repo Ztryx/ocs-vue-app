@@ -1,11 +1,6 @@
 <template>
   <v-container>
     <v-row>
-      <v-col cols="12">
-        <h1 class="display-1"> Biography </h1>
-      </v-col>
-    </v-row>
-    <v-row>
       <v-col>
         <div v-html="this.html_text"></div>
       </v-col>

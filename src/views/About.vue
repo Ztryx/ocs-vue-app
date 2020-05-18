@@ -39,20 +39,22 @@
                 and Vuetify design elements as SPA.
               </p>
               <p class="headline">
-                As showdown purpose, there are different design patterns involved as
+                There are different design patterns involved as
                 Parent-Child communication, Cross communication and State managed communication
                 making It reactive with Vuex.
               </p>
               <p class="headline">
-                Some of the decisions regarding styles has been driven by
-                covering multiple cases and to offer different choices to apply styles,
-                as random colors driven by colour palette which could be check by here:
+                Some of the decisions regarding styles have been made
+                taking into account various cases, in order to offer several choices
+                when It comes to design.
+                There is an example of this resource as random colour palette that could be checked
+                by here:
               </p>
               <v-btn
                 class="button-link"
                 color="secondary"
                 @click="navigateTo('random-color')">
-                I wanna check some random colors!
+                I'd like to check It!
               </v-btn>
             </v-col>
           </v-row>
